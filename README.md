@@ -28,5 +28,10 @@
     ln -sf ~/.dotfiles/rofi ~/.config/rofi
     ln -sf ~/.dotfiles/vis ~/.config/vis
 ```
+###    Or use script
+```bash
+    chmod +x install.sh
+    ./install.sh
+``` 
 ###    Reload i3
     Press $mod+Shift+r to restart i3 in place, or log out and back in.
